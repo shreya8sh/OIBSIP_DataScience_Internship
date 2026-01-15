@@ -27,7 +27,7 @@ This repository contains my data science projects completed for the Oasis Infoby
 - Jupyter Notebook
 
 ## Author
-[Your Name]
+[Shreya Shukla ]
 
 ## Internship
 Oasis Infobyte - Data Analytics Domain
